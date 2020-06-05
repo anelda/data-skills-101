@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Routing on </title>
+    <link>/thing-2/routing/</link>
+    <description>Recent content in Routing on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>Data skills for the 21st century is published under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).</copyright>
+    <lastBuildDate>Sat, 29 Dec 2018 11:02:05 +0600</lastBuildDate>
+    
+	<atom:link href="/thing-2/routing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

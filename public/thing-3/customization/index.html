@@ -2,7 +2,7 @@
 <html lang="en-uk">
   <head>
   <meta charset="utf-8">
-  <title>R Markdown</title>
+  <title>Customization</title>
 
   <meta name="generator" content="Hugo 0.72.0" />
 
@@ -153,6 +153,140 @@
             
             <a class="d-block h4 back-btn" href="/"></a>
             
+               
+              
+
+
+
+
+
+
+
+
+<li data-nav-id="/thing-3/" title="1. Getting Started" class="sidelist
+  ">
+  <a href="/thing-3/">
+    1. Getting Started
+  </a>
+  
+  
+    <ul>
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="/thing-3/requirments/" title="Requirments" class="sidelist
+  ">
+  <a href="/thing-3/requirments/">
+    Requirments
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="/thing-3/install/" title="Installation" class="sidelist
+  ">
+  <a href="/thing-3/install/">
+    Installation
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="/thing-3/configuration/" title="Configuration" class="sidelist
+  ">
+  <a href="/thing-3/configuration/">
+    Configuration
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="/thing-3/customization/" title="Customization" class="sidelist
+  active">
+  <a href="/thing-3/customization/">
+    Customization
+  </a>
+  
+  
+</li>
+
+
+        
+      
+        
+          
+
+
+
+
+
+
+
+
+<li data-nav-id="/thing-3/elements/" title="Elements" class="sidelist
+  ">
+  <a href="/thing-3/elements/">
+    Elements
+  </a>
+  
+  
+</li>
+
+
+        
+      
+    </ul>
+  
+</li>
+
+
               
             
               
@@ -172,59 +306,36 @@
       </div>
       <div class="col-lg-9">
         <div class="p-lg-5 p-4 bg-white">
-          <h2 class="mb-5">R Markdown</h2>
+          <h2 class="mb-5">Customization</h2>
           
-          <div class="bg-light p-4">
-            <ul class="page-list">
-              
+          <div class="content"><p><strong>Dot</strong> has been built to be as configurable as possible.</p>
+<h3 id="change-the-logo">Change the logo</h3>
+<p>In <code>config.toml</code> you will find a logo variable. you can change your logo there.</p>
 
 
+<div class="notices tip" ><p>The size of the logo will adapt automatically</p></div>
 
-
-
-
-
-
-<li data-nav-id="/tags/r-markdown/" title="R Markdown" class="sidelist
-  active">
-  <a href="/tags/r-markdown/">
-    R Markdown
-  </a>
-  
-  
-    <ul>
-      
-        
+<h3 id="change-the-favicon">Change the favicon</h3>
+<p>If your favicon is a png, just drop off your image in your local <code>static/images/</code> folder and name it <code>favicon.png</code></p>
+<p>If you need to change this default behavior, create a new file in <code>layouts/partials/</code> named <code>head.html</code>. Then write something like this:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">&lt;<span style="color:#f92672">link</span> <span style="color:#a6e22e">rel</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;shortcut icon&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;/images/favicon.png&#34;</span> <span style="color:#a6e22e">type</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;image/x-icon&#34;</span> /&gt;
+</code></pre></div><h3 id="change-default-colors">Change default colors</h3>
+<p><strong>Dot</strong> support change color. You can change the colors from <code>config.toml</code>. You can change the colors of the template as you want.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">[<span style="color:#a6e22e">params</span>]
+  <span style="color:#75715e"># Change default color scheme with a color name or color code.</span>
+  <span style="color:#a6e22e">primary_color</span> = <span style="color:#e6db74">&#34;#02007e&#34;</span>
+  <span style="color:#a6e22e">body_color</span> = <span style="color:#e6db74">&#34;#f9f9f9&#34;</span>
+  <span style="color:#a6e22e">text_color</span> = <span style="color:#e6db74">&#34;#636363&#34;</span>
+  <span style="color:#a6e22e">text_color_dark</span> = <span style="color:#e6db74">&#34;#242738&#34;</span>
+  <span style="color:#a6e22e">white_color</span> = <span style="color:#e6db74">&#34;#ffffff&#34;</span>
+  <span style="color:#a6e22e">light_color</span> = <span style="color:#e6db74">&#34;#f8f9fa&#34;</span>
+</code></pre></div><h3 id="change-default-fonts">Change default Fonts</h3>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">[<span style="color:#a6e22e">params</span>]
+  <span style="color:#75715e"># font family</span>
+  <span style="color:#a6e22e">font_family</span> = <span style="color:#e6db74">&#34;lato&#34;</span> <span style="color:#75715e"># Choose font family from : https://fonts.google.com/</span>
+</code></pre></div></div>
           
-
-
-
-
-
-
-
-
-<li data-nav-id="/post/2015-07-23-r-rmarkdown/" title="Hello R Markdown" class="sidelist
-  ">
-  <a href="/post/2015-07-23-r-rmarkdown/">
-    Hello R Markdown
-  </a>
-  
-  
-</li>
-
-
-        
-      
-    </ul>
-  
-</li>
-
-
-            </ul>
-          </div>
-          
-          <p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 23 Jul 2015</p>
+          <p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 05 Jan 2020</p>
           <nav class="pagination mt-3">
             
             
@@ -252,6 +363,109 @@
             
             
             
+
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             
             
 
@@ -454,104 +668,6 @@
             
             
             
-            
-            
-
-            
-            
-            
-            
-            
-            
-            
-            
-
-            
-            
-            
-
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-
-            
-            
-            
-
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-
-            
-            
-            
-
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-
-            
-            
-            
-
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-
-            
-            
-            
-
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-
-            
-            
-            
 
             
             
@@ -626,8 +742,10 @@
             
 
             
+            <a class="nav nav-prev" href="/thing-3/configuration/"><i class="ti-arrow-left mr-2"></i> <span class="d-none d-md-block">Configuration</span></a>
             
-            <a class="nav nav-next" href="/thing-3/"> <span class="d-none d-md-block">1. Getting Started</span><i class="ti-arrow-right ml-2"></i></a>
+            
+            <a class="nav nav-next" href="/thing-3/elements/"> <span class="d-none d-md-block">Elements</span><i class="ti-arrow-right ml-2"></i></a>
             
           </nav>
         </div>

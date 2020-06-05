@@ -3,77 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/billing-pricing/ownership/</loc>
+    <loc>/thing-1/ownership/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/features/linux/</loc>
+    <loc>/thing-2/linux/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/installation/requirments/</loc>
+    <loc>/thing-3/requirments/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/installation/install/</loc>
+    <loc>/thing-3/install/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/features/mac/</loc>
+    <loc>/thing-2/mac/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/billing-pricing/manage/</loc>
+    <loc>/thing-1/manage/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/installation/configuration/</loc>
+    <loc>/thing-3/configuration/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/billing-pricing/bill/</loc>
+    <loc>/thing-1/bill/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/features/routing/</loc>
+    <loc>/thing-2/routing/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/installation/customization/</loc>
+    <loc>/thing-3/customization/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/billing-pricing/payment/</loc>
+    <loc>/thing-1/payment/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/features/ubuntu/</loc>
+    <loc>/thing-2/ubuntu/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/installation/elements/</loc>
+    <loc>/thing-3/elements/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/billing-pricing/profile/</loc>
+    <loc>/thing-1/profile/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/features/windows/</loc>
+    <loc>/thing-2/windows/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
@@ -83,17 +83,17 @@
   </url>
   
   <url>
-    <loc>/installation/</loc>
+    <loc>/thing-3/</loc>
     <lastmod>2018-12-29T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/billing-pricing/</loc>
+    <loc>/thing-2/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/features/</loc>
+    <loc>/thing-1/</loc>
     <lastmod>2018-12-28T11:02:05+06:00</lastmod>
   </url>
   
