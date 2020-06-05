@@ -1,28 +1,167 @@
-baseurl = "/"
-languageCode = "en-uk"
-title = "Fundamental Data Skills for the 21st Century"
-theme = "hugo-cards"
-paginate = 6
+################################# Default configuration ###################
+# provide your domain here
+baseURL = "https://examplesite.com/"
+# theme
+theme = "dot"
+# site title
+title = ""
+# disable language
+disableLanguages = []
+# google analytics
+googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
 
+# unsafe html
+[markup.goldmark.renderer]
+unsafe= true
+
+################################# navigation ################################
+[[menu.main]]
+name = "Faq"
+url = "faq"
+weight = 1
+
+[[menu.main]]
+name = "about"
+url = "about"
+weight = 2
+
+# Dropdown menu
+[[menu.main]]
+weight = 3
+name = "things"
+hasChildren = true
+
+  [[menu.main]]
+  parent = "things"
+  name = "Starting with data"
+  url = "thing-1"
+  weight = 1
+
+  [[menu.main]]
+  parent = "things"
+  name = "Data management"
+  url = "thing-2"
+  weight = 2
+
+  [[menu.main]]
+  parent = "things"
+  name = "Data lifecycle"
+  url = "thing-3"
+  weight = 3
+  
+    [[menu.main]]
+  parent = "things"
+  name = "Data discovery"
+  url = "thing-4"
+  weight = 1
+
+  [[menu.main]]
+  parent = "things"
+  name = "Data sharing"
+  url = "thing-5"
+  weight = 2
+
+  [[menu.main]]
+  parent = "things"
+  name = "Long-lived data"
+  url = "thing-6"
+  weight = 3
+
+  [[menu.main]]
+  parent = "things"
+  name = "Data citation"
+  url = "thing-7"
+  weight = 1
+
+  [[menu.main]]
+  parent = "things"
+  name = "Digital object identifiers"
+  url = "thing-8"
+  weight = 2
+
+  [[menu.main]]
+  parent = "things"
+  name = "Data licensing"
+  url = "thing-9"
+  weight = 3
+  
+    [[menu.main]]
+  parent = "things"
+  name = "Sensitive data"
+  url = "thing-10"
+  weight = 1
+
+  [[menu.main]]
+  parent = "things"
+  name = "Metadata"
+  url = "thing-11"
+  weight = 2
+
+  [[menu.main]]
+  parent = "things"
+  name = "Data quality"
+  url = "thing-12"
+  weight = 3
+
+
+############################# Default Parameters ##########################
 [params]
-  builtBy = "Talarify"
-  defaultImage = "gopher.jpg"
+# logo is for all page
+logo = ""
+# logo white is for homepage logo, you can use colorful logo too...
+logo_white = ""
+# when logo is empty, it will shown your site title
 
-  facebook = ""
-  quora = ""
-  twitter = "http://twitter.com/aneldavdw"
-  github = "http://github.com/anelda"
-  email = ""
+# customize color
+primary_color = "#02007e"
+body_color = "#f9f9f9"
+text_color = "#636363"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+light_color = "#f8f9fa"
 
-  fbLikeBox = ""
-  fbAppId = ""
-  fbPageUrl = ""
-  fbPageTitle = ""
+# font family
+font_family = "lato" # Choose font family from : https://fonts.google.com/
 
-  analytics = ""
-  disqus = ""
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
 
-  [params.copyright]
-     name = "Talarify"
-     link = "https://anelda.github.io/data-skills-101"
+
+############################## social links ##############################
+
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "https://twitter.com/aneldavdw"
+  
+[[params.social]]
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+link = "https://github.com/anelda/data-skills-101"
+  
+
+################################ English Language ######################
+[Languages.en]
+languageName = "En"
+languageCode = "en-uk"
+weight = 1
+home = "Home"
+copyright = "Data skills for the 21st century is published under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)."
+
+# banner
+[Languages.en.params.banner]
+title = "Data Skills for the 21st Century"
+subtitle = "A data literacy resource for everyone"
+bg_image = "images/banner.jpg"
+placeholder = "Looking for a resource? Enter keywords to see if we can help you or get in touch"
+
+# call to action
+[Languages.en.params.cta]
+enable = true
+title = "Didn't find an answer to your question? Want to contribute resources?"
+content = "This site is under constant development and we'd love to grow it to be as comprehensive and helpful as possible."
+# call to action button
+
+[Languages.en.params.cta.button]
+enable = true
+label = "contact us"
+link = "contact"
 

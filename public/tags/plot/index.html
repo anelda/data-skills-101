@@ -1,161 +1,670 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en-uk">
   <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <title>plot</title>
 
-<title>plot</title>
-<meta name="description" content=""/>
-<meta name="robots" content="noodp"/>
-<link rel="canonical" href="/tags/plot/" />
+  <meta name="generator" content="Hugo 0.72.0" />
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+  <!-- ** Plugins Needed for the Project ** -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="/plugins/bootstrap/bootstrap.min.css">
+
+  <!-- themefy-icon -->
+  <link rel="stylesheet" href="/plugins/themify-icons/themify-icons.css">
+
+  <!-- highlight -->
+  <link rel="stylesheet" href="/plugins/highlight/hybrid.css">
+
+  <!--Favicon-->
+  <link rel="icon" href="/images/favicon.png" type="image/x-icon">
+
+  <!-- fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+  
+  <style>
+  :root{
+    --primary-color:#02007e;
+    --body-color:#f9f9f9;
+    --text-color:#636363;
+    --text-color-dark:#242738;
+    --white-color:#ffffff;
+    --light-color:#f8f9fa;
+    --font-family:Lato;
+  }
+  </style>
+
+<!-- Main Stylesheet -->
+
+<link href="/css/style.min.css" rel="stylesheet" media="screen"/>
+
+<!-- jquiry -->
+<script src="/plugins/jquery/jquery-1.12.4.js"></script>
+
+<!-- jquary ui -->
+<script src="/plugins/jquery/jquery-ui.js"></script>
+
+<!-- Bootstrap JS -->
+<script src="/plugins/bootstrap/bootstrap.min.js"></script>
+
+<!-- match-height JS -->
+<script src="/plugins/match-height/jquery.matchHeight-min.js"></script>
+
+<!-- highlight -->
+<script src="/plugins/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
 
 
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="" />
-<meta name="twitter:title" content="plot - Fundamental Data Skills for the 21st Century" />
-<meta name="twitter:site" content="http://twitter.com/aneldavdw" />
-<meta name="twitter:creator" content="http://twitter.com/aneldavdw" />
 
-
-<meta property="og:type" content="website" />
-<meta content="plot - Fundamental Data Skills for the 21st Century" property="og:title">
-<meta content="" property="og:description">
-<meta property="og:url" content="/tags/plot/" />
-<meta property="og:site_name" content="Fundamental Data Skills for the 21st Century" />
-
-
-
-
-
-
-
-
-
-
-<link rel="stylesheet" href="/sass/main.css">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-
-
+  
   <body>
-
-    <header class="site-header">
-<nav class="navbar navbar-default">
-  <div class="container-fluid">
     
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="/">Fundamental Data Skills for the 21st Century</a>
-    </div>
+    <!-- header -->
+    <header class="shadow-bottom sticky-top bg-white">
+      <nav class="navbar navbar-expand-md navbar-light">
+  <div class="container">
+    <a class="navbar-brand px-2" href="/">
+      
+      
+      
+      
+      
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation"
+      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-    
-    <div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-        <li><a href="/pages/about/">About</a></li>
-        <li><a href="/pages/contact/">Contact</a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Download <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a target="_blank" href="https://github.com/bul-ikana/hugo-cards">Project</a></li>
-            <li><a href="https://github.com/bul-ikana/hugo-cards.git">Download</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a target="_blank" href="https://themes.gohugo.io/">More Themes</a></li>
-          </ul>
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/">Home</a>
         </li>
+        
+        
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/faq">Faq</a>
+        </li>
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="/about">about</a>
+        </li>
+        
+        
+        
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-dark" href="#" role="button" data-toggle="dropdown"
+            aria-haspopup="true" aria-expanded="false">
+            things
+          </a>
+          <div class="dropdown-menu">
+            
+            <a class="dropdown-item" href="/thing-7">Data citation</a>
+            
+            <a class="dropdown-item" href="/thing-4">Data discovery</a>
+            
+            <a class="dropdown-item" href="/thing-10">Sensitive data</a>
+            
+            <a class="dropdown-item" href="/thing-1">Starting with data</a>
+            
+            <a class="dropdown-item" href="/thing-2">Data management</a>
+            
+            <a class="dropdown-item" href="/thing-5">Data sharing</a>
+            
+            <a class="dropdown-item" href="/thing-8">Digital object identifiers</a>
+            
+            <a class="dropdown-item" href="/thing-11">Metadata</a>
+            
+            <a class="dropdown-item" href="/thing-9">Data licensing</a>
+            
+            <a class="dropdown-item" href="/thing-3">Data lifecycle</a>
+            
+            <a class="dropdown-item" href="/thing-12">Data quality</a>
+            
+            <a class="dropdown-item" href="/thing-6">Long-lived data</a>
+            
+          </div>
+        </li>
+        
+        
       </ul>
+      
     </div>
   </div>
 </nav>
-</header>
+    </header>
+    <!-- /header -->
+    
+    
+
+<!-- details page -->
+<section class="single section-sm pb-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3">
+        <div class="bg-white pl-lg-4 py-4 pr-4 mb-5 mb-lg-0 sticky-top top-100 overflow-hidden">
+          <ul class="list-styled">
+            
+            <a class="d-block h4 back-btn" href="/"></a>
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+          </ul>
+        </div>
+      </div>
+      <div class="col-lg-9">
+        <div class="p-lg-5 p-4 bg-white">
+          <h2 class="mb-5">plot</h2>
+          
+          <div class="bg-light p-4">
+            <ul class="page-list">
+              
 
 
-    <div class="container">
-      <div class="wrapper">
-        
 
-<div class="home">
- 
+
+
+
+
+
+<li data-nav-id="/tags/plot/" title="plot" class="sidelist
+  active">
+  <a href="/tags/plot/">
+    plot
+  </a>
   
-    <div class="row pack">
-
-        
-           
-            <div class="col-md-4 card">
-             <a href="/post/2015-07-23-r-rmarkdown/" class="index-anchor">    
-                <div class="panel panel-default">
-                  
-                  
-                  <img width="100%" src="/images/gopher.jpg" alt="Fundamental Data Skills for the 21st Century">
-                  
-                  
-                  <div class="panel-body">
-                    <h3 class="panel-title pull-left">Hello R Markdown</h3><span class="post-meta pull-right"><small>July 23, 2015</small></span>
-                  </div>
-                  
-                  <div class="panel-body"><small>
-                    R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see …</small>
-                  </div>
-                </div>
-                </a>
-            </div>
+  
+    <ul>
+      
         
           
 
-    </div> 
-    
-<div class="row">
-    <div class="col-md-4">  </div>
-    <div class="col-md-4">
+
+
+
+
+
+
+
+<li data-nav-id="/post/2015-07-23-r-rmarkdown/" title="Hello R Markdown" class="sidelist
+  ">
+  <a href="/post/2015-07-23-r-rmarkdown/">
+    Hello R Markdown
+  </a>
+  
+  
+</li>
+
+
         
+      
+    </ul>
+  
+</li>
 
-    </div>
-    <div class="col-md-4">  </div>
-</div>
-</div>
 
+            </ul>
+          </div>
+          
+          <p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 23 Jul 2015</p>
+          <nav class="pagination mt-3">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
 
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+            
+
+            
+            
+            <a class="nav nav-next" href="/installation/"> <span class="d-none d-md-block">Installation</span><i class="ti-arrow-right ml-2"></i></a>
+            
+          </nav>
+        </div>
       </div>
     </div>
+  </div>
+</section>
+<!-- /details page -->
 
-    <footer>
-    <div class="container">
-        <div class="row p20">
-            
-                <div class="col-md-4 text-center mt25">All rights reserved by <a target="_blank" href="https://anelda.github.io/data-skills-101">Talarify</a></div>
-            
 
-            <div class="col-md-4 text-center mt25" >
-                
-                <a target="_blank" href="https://bool.netlify.com"><img src="https://img.shields.io/badge/Built%20by-bool-brightgreen.svg" alt="Talarify"></a>
-                
-            </div>
-            <div class="col-md-4 text-center mt25">
-               
-               
-               
-                <a target="_blank" href="http://twitter.com/aneldavdw"><li class="social twitter"><i class="fa fa-twitter-square"></i></li></a>
-                
-               
-                <a target="_blank" href="http://github.com/anelda"><li class="social github"><i class="fa fa-github-square"></i></li></a>
-                
-               
-            </div>
 
-        </div> 
+
+
+    <!-- footer -->
+<footer class="section pb-4">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-8 text-md-left text-center">
+       <p class="mb-md-0 mb-4">Data skills for the 21st century is published under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.</p>
+      </div>
+      <div class="col-md-4 text-md-right text-center">
+        <ul class="list-inline">
+          
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="https://twitter.com/aneldavdw"><i class="ti-twitter-alt"></i></a></li>
+          
+          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="https://github.com/anelda/data-skills-101"><i class="ti-github"></i></a></li>
+          
+        </ul>
+      </div>
     </div>
+  </div>
 </footer>
-    
+<!-- /footer -->
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-  <script src="//js/bootstrap.min.js"></script>
-  
+<!-- Main Script -->
+
+<script src="/js/script.min.js"></script>
   </body>
 
 </html>
