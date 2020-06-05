@@ -1,0 +1,28 @@
+baseurl = "/"
+languageCode = "en-uk"
+title = "Fundamental Data Skills for the 21st Century"
+theme = "hugo-cards"
+paginate = 6
+
+[params]
+  builtBy = "Talarify"
+  defaultImage = "gopher.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = "http://twitter.com/aneldavdw"
+  github = "http://github.com/anelda"
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  [params.copyright]
+     name = "Talarify"
+     link = "https://anelda.github.io/data-skills-101"
+
