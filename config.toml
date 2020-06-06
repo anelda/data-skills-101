@@ -144,7 +144,7 @@ languageName = "En"
 languageCode = "en-uk"
 weight = 1
 home = "Home"
-copyright = "Data skills for the 21st century is published under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)."
+copyright = "Data Skills for the 21st Century is published under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)."
 
 # banner
 [Languages.en.params.banner]
