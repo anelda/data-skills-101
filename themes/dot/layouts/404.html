@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+  {{ $data := index .Site.Data .Site.Language.Lang }}
+  {{ "<!-- call to action -->" | safeHTML }}
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="section px-3 bg-white shadow text-center">
+          <h2 class="mb-4">That page does not exist...</h2>
+          <p class="mb-4">Sorry, the page you were looking for could not be found.</p>
+        
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ "<!-- /call to action -->" | safeHTML }}
+
+{{ end }}

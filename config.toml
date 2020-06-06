@@ -107,18 +107,19 @@ hasChildren = true
 ############################# Default Parameters ##########################
 [params]
 # logo is for all page
-logo = ""
+logo = "images/dataskills-colour.png"
 # logo white is for homepage logo, you can use colorful logo too...
-logo_white = ""
+logo_white = "images/dataskills-white-gray.png"
 # when logo is empty, it will shown your site title
 
 # customize color
-primary_color = "#02007e"
-body_color = "#f9f9f9"
-text_color = "#636363"
-text_color_dark = "#242738"
+primary_color = "#78463F"
+secondary_color = "#8D473F"
+body_color = "#F7F5F3"
+text_color = "#101619"
+text_color_dark = "#2E2923"
 white_color = "#ffffff"
-light_color = "#f8f9fa"
+light_color = "#F7F5F3"
 
 # font family
 font_family = "lato" # Choose font family from : https://fonts.google.com/
@@ -144,12 +145,12 @@ languageName = "En"
 languageCode = "en-uk"
 weight = 1
 home = "Home"
-copyright = "Data Skills for the 21st Century is published under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)."
+copyright = "Data Skills for the 21st Century is created with love in Africa under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license"
 
 # banner
 [Languages.en.params.banner]
 title = "Data Skills for the 21st Century"
-subtitle = "A data literacy resource for everyone"
+subtitle = "Start from where you are"
 bg_image = "images/banner.jpg"
 placeholder = "Looking for a resource? Enter keywords to see if we can help you or get in touch"
 

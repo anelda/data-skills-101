@@ -38,12 +38,12 @@
   </url>
   
   <url>
-    <loc>/thing-1/bill/</loc>
+    <loc>/thing-2/routing/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/thing-2/routing/</loc>
+    <loc>/thing-1/bill/</loc>
     <lastmod>2020-01-05T10:42:26+06:00</lastmod>
   </url>
   
@@ -79,22 +79,22 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <lastmod>2020-05-29T11:02:05+06:00</lastmod>
   </url>
   
   <url>
     <loc>/thing-3/</loc>
-    <lastmod>2018-12-29T11:02:05+06:00</lastmod>
+    <lastmod>2020-05-29T11:02:05+06:00</lastmod>
   </url>
   
   <url>
     <loc>/thing-2/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+    <lastmod>2020-05-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
     <loc>/thing-1/</loc>
-    <lastmod>2018-12-28T11:02:05+06:00</lastmod>
+    <lastmod>2019-12-28T11:02:05+06:00</lastmod>
   </url>
   
   <url>
@@ -103,7 +103,7 @@
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/post/2020-05-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -147,6 +147,10 @@
   
   <url>
     <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/404/</loc>
   </url>
   
 </urlset>

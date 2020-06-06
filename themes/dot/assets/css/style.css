@@ -2,14 +2,14 @@ body {
   line-height: 1.5;
   font-family: var(--font-family), sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 17px;
+  font-size: 25px;
   color: var(--text-color);
   background-color: var(--body-color);
 }
 
 P {
   color: var(--text-color);
-  font-size: 15px;
+  font-size: 22px;
 }
 
 h1,
@@ -333,14 +333,14 @@ header.sticky-top {
 }
 
 .navbar-brand img {
-  max-width: 100px;
+  max-width: 200px;
   margin-bottom: 0;
 }
 
 .navbar .nav-item .nav-link {
   text-transform: uppercase;
   padding: 10px 15px !important;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 .navbar .dropdown:hover .dropdown-menu {

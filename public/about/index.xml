@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About this site on </title>
+    <title>About DATASKILLS on </title>
     <link>/about/</link>
-    <description>Recent content in About this site on </description>
+    <description>Recent content in About DATASKILLS on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <copyright>Data skills for the 21st century is published under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).</copyright>
+    <copyright>Data Skills for the 21st Century is created with love in Africa under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license</copyright>
     
 	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     
