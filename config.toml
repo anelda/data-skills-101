@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://data-skills-101.netlify.app/"
+baseURL = "https://www.dataskills.training/"
 # theme
 theme = "dot"
 # site title
