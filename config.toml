@@ -28,7 +28,7 @@ weight = 2
 # Dropdown menu
 [[menu.main]]
 weight = 3
-name = "things"
+name = "topics"
 hasChildren = true
 
   [[menu.main]]
