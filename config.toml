@@ -92,8 +92,8 @@ languageCode = "en-uk"
 weight = 1
 home = "Home"
 copyright = "Data Skills for the 21st Century is created with love in Africa under a [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/) license"
-conduct = "[Code of Conduct](https://www.dataskills.training/conduct/)"
-contribute = "[Contribute](https://www.dataskills.training/contribute/)"
+conduct = "Code of Conduct"
+contribute = "Contribute"
 
 # banner
 [Languages.en.params.banner]

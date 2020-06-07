@@ -1,70 +1,75 @@
 ---
 draft: false
-title: About DATASKILLS
+title: DATASKILLS Code of Conduct
 ---
 
-This website aims to provide an introduction to fundamental data skills needed by researchers, students, learners, government officials, journalists, and the general public in the 21st century. Data is everywhere and data literacy is becoming an increasingly important skill to have regardless of who you are and what kind of job you do or even whether you're working at all.
+## Our Pledge
 
-<br>
+We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, religion, or sexual identity
+and orientation.
 
-### The logo and philosphy
+We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.
 
-<img src="images/dataskills.png" alt="logo" style="float:left">
+## Our Standards
 
-<br>
+Examples of behavior that contributes to a positive environment for our
+community include:
 
-We want this resource to be the very first place people come when they want to start learning about data. We want to meet our learners where they are at, no minimum requirements to meet. If we are explaining things in an inaccessible way, using jargon that is not defined clearly, or expecting prior understanding, we want to hear from you!
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the overall community
 
-<br>
 
-### What this project is not...
+Examples of unacceptable behavior include:
 
-There are loads of materials available to learn 'sexy' data skills like machine learning and AI and all the buzz words. This resource might eventually cover some of the topics relevant to 'big data', but essentially we will focus on fundamental knowledge and skills one should have to be able to find and use data, communicate about it, and manipulate, analyse, and visualise it. We won't look at 'big' data skills, but rather ubiquitous data skills that may apply to bigger or smaller data sets. 
+* The use of sexualized language or imagery, and sexual attention or advances of any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or email address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
 
-The topics covered in _[DATASKILLS](index.html)_ are essential for any 'sexy' data project, but are often neglected when the conversation turns to Data Science, AI, and the like. 
 
-<br>
+## Enforcement Responsibilities
 
-### What is data literacy and why do we care?
+Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bpg8zrdCaRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qHz_ogTH2p4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Scope
 
-<br>
+This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official e-mail address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
 
-### Who developed the content?
+## Enforcement
 
-_[DATASKILLS](index.html)_ is an initiative developed by Anelda van der Walt from [Talarify](http://www.talarify.co.za). The project is a culmination of many years' experience in working with a wide variety of data and teaching numerous data and computational literacy courses in Africa and beyond. 
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+[anelda@talarify.co.za](mailto: anelda@talarify.co.za).
+All complaints will be reviewed and investigated promptly and fairly.
 
-Despite the fact that this project has been in the making for many years, it finally saw the light in June 2020 in response to a request to teach a data module as part of a _21st Century Skills for Industry_ course offered to Nanotechnology Honours students at Rhodes University, South Africa. The course coordinator was Heidi Duveskog from [Contextualize](http://contextualize.co.za/). The materials on this website was compiled by [Talarify](http://www.talarify.co.za) with input from Contextualize and team members from [afrimapr](http://afrimapr.org). 
+All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
 
-<br>
+## Attribution
 
-### Re-use
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 2.0, available at
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-Where possible, this resource will refer to materials that are published under permissive open licenses to allow users to re-use and share the materials freely with peers and students. Resources developed under _[DATASKILLS](index.html)_ are published under [Creative Commons Attribution-NonCommercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/) (CC-BY-NC-4.0)
-
-You can use the online version of _[DATASKILLS](index.html)_ in any class (free or paid), and can quote short excerpts under [fair use](https://en.wikipedia.org/wiki/Fair_use) provisions, but cannot republish large parts in commercial works without prior permission.
-
-Contributions, corrections, and suggestions are all welcome, and all contributors will be acknowledged on the site. Please see our [Contributions section](contributions.html) for details and our [Code of Conduct](code.html).
-
-<br>
-
-### Where did the inspiration come from?
-
-The material borrows from the _[23 Research Data Things](https://au-research.github.io/ARDC-23-things/researchdata/things/
-)_ originally developed by the Australian National Data Service and currently maintained by the [Australian Research Data Commons](https://ardc.edu.au/).
-
-Other communities that has had an influence on the style and content of _[DATASKILLS](index.html)_ include [The Carpentries](https://carpentries.org) and the [Software Sustainability Institute](https://software.ac.za).
-
-In a way, I'm hoping to provide something that might eventually turn into a reference resource for learning about data in the way that [_Teaching Tech Together_](https://teachtogether.tech/) (developed by [Greg Wilson](https://twitter.com/gvwilson)) is a reference resource for learning to teach tech.
-
-<br><br>
-
-**Does the site deserve a star?**
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/anelda/data-skills-101" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star anelda/data-skills-101 on GitHub">Star</a>
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+[homepage]: https://www.contributor-covenant.org

@@ -2,14 +2,14 @@ body {
   line-height: 1.5;
   font-family: var(--font-family), sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 18px;
+  font-size: 14px;
   color: var(--text-color);
   background-color: var(--body-color);
 }
 
 P {
   color: var(--text-color);
-  font-size: 22px;
+  font-size: 16px;
 }
 
 h1,

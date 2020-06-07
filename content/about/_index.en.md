@@ -16,6 +16,8 @@ This website aims to provide an introduction to fundamental data skills needed b
 We want this resource to be the very first place people come when they want to start learning about data. We want to meet our learners where they are at, no minimum requirements to meet. If we are explaining things in an inaccessible way, using jargon that is not defined clearly, or expecting prior understanding, we want to hear from you!
 
 <br>
+<br>
+<br><br>
 
 ### What this project is not...
 
