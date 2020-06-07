@@ -32,75 +32,21 @@ name = "topics"
 hasChildren = true
 
   [[menu.main]]
-  parent = "things"
+  parent = "topics"
   name = "Starting with data"
   url = "thing-1"
   weight = 1
 
   [[menu.main]]
-  parent = "things"
+  parent = "topics"
   name = "Data management"
   url = "thing-2"
   weight = 2
 
   [[menu.main]]
-  parent = "things"
+  parent = "topics"
   name = "Data lifecycle"
   url = "thing-3"
-  weight = 3
-  
-    [[menu.main]]
-  parent = "things"
-  name = "Data discovery"
-  url = "thing-4"
-  weight = 1
-
-  [[menu.main]]
-  parent = "things"
-  name = "Data sharing"
-  url = "thing-5"
-  weight = 2
-
-  [[menu.main]]
-  parent = "things"
-  name = "Long-lived data"
-  url = "thing-6"
-  weight = 3
-
-  [[menu.main]]
-  parent = "things"
-  name = "Data citation"
-  url = "thing-7"
-  weight = 1
-
-  [[menu.main]]
-  parent = "things"
-  name = "Digital object identifiers"
-  url = "thing-8"
-  weight = 2
-
-  [[menu.main]]
-  parent = "things"
-  name = "Data licensing"
-  url = "thing-9"
-  weight = 3
-  
-    [[menu.main]]
-  parent = "things"
-  name = "Sensitive data"
-  url = "thing-10"
-  weight = 1
-
-  [[menu.main]]
-  parent = "things"
-  name = "Metadata"
-  url = "thing-11"
-  weight = 2
-
-  [[menu.main]]
-  parent = "things"
-  name = "Data quality"
-  url = "thing-12"
   weight = 3
 
 
@@ -145,7 +91,9 @@ languageName = "En"
 languageCode = "en-uk"
 weight = 1
 home = "Home"
-copyright = "Data Skills for the 21st Century is created with love in Africa under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license"
+copyright = "Data Skills for the 21st Century is created with love in Africa under a [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/) license"
+conduct = "[Code of Conduct](https://www.dataskills.training/conduct/)"
+contribute = "[Contribute](https://www.dataskills.training/contribute/)"
 
 # banner
 [Languages.en.params.banner]

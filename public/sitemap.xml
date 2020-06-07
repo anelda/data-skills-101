@@ -142,15 +142,19 @@
   </url>
   
   <url>
+    <loc>/conduct/</loc>
+  </url>
+  
+  <url>
+    <loc>/contribute/</loc>
+  </url>
+  
+  <url>
     <loc>/faq/</loc>
   </url>
   
   <url>
     <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/404/</loc>
   </url>
   
 </urlset>
