@@ -16,13 +16,13 @@ unsafe= true
 
 ################################# navigation ################################
 [[menu.main]]
-name = "Faq"
-url = "faq"
+name = "about"
+url = "about"
 weight = 1
 
 [[menu.main]]
-name = "about"
-url = "about"
+name = "Personas"
+url = "personas"
 weight = 2
 
 # Dropdown menu
@@ -91,7 +91,7 @@ languageName = "En"
 languageCode = "en-uk"
 weight = 1
 home = "Home"
-copyright = "Data Skills for the 21st Century is created with love in Africa under a [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/) license"
+copyright = "[DATASKILLS]( https://www.dataskills.training/about/) is created with love in Africa under a [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/) license"
 conduct = "Code of Conduct"
 contribute = "Contribute"
 
