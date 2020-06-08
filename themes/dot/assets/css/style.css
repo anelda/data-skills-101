@@ -707,13 +707,13 @@ tbody {
   left: 10px;
 }
 
-.notices.note p {
-  border-top: 30px solid #6ab0de;
-  background: #e7f2fa;
+.notices.objective p {
+  border-top: 30px solid #b388eb;
+  background: #ede7f5;
 }
 
-.notices.note p::after {
-  content: 'Note';
+.notices.objective p::after {
+  content: 'Learning objective';
   position: absolute;
   top: 2px;
   color: #fff;
@@ -722,12 +722,52 @@ tbody {
 
 
 .notices.tip p {
-  border-top: 30px solid #78C578;
-  background: #E6F9E6;
+  border-top: 30px solid #fdde2d;
+  background: #ffe8632c;
 }
 
 .notices.tip p::after {
   content: 'Tip';
+  position: absolute;
+  top: 2px;
+  color: #fff;
+  left: 2rem;
+}
+
+
+.notices.try p {
+  border-top: 30px solid #6ab0de;
+  background: #e7f2fa;
+}
+
+.notices.try p::after {
+  content: 'Try this';
+  position: absolute;
+  top: 2px;
+  color: #fff;
+  left: 2rem;
+}
+
+.notices.reading p {
+  border-top: 30px solid #f767cc;
+  background: #f767cc27;
+}
+
+.notices.reading p::after {
+  content: 'Further reading';
+  position: absolute;
+  top: 2px;
+  color: #fff;
+  left: 2rem;
+}
+
+.notices.resource p {
+  border-top: 30px solid #78C578;
+  background: #E6F9E6;
+}
+
+.notices.resource p::after {
+  content: 'Resource';
   position: absolute;
   top: 2px;
   color: #fff;

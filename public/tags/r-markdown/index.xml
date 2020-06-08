@@ -7,20 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>[DATASKILLS]( https://www.dataskills.training/about/) is created with love in Africa under a [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/) license</copyright>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2020-05-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Introducing the DATASKILLS project</title>
+      <link>/post/2020-06-08-introducing-dataskills/</link>
+      <pubDate>Mon, 08 Jun 2020 21:13:14 -0500</pubDate>
       
-      <guid>/post/2020-05-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/2020-06-08-introducing-dataskills/</guid>
+      <description>This post will be published shortly</description>
     </item>
     
   </channel>

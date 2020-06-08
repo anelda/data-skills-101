@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on </title>
+    <link>/categories/introduction/</link>
+    <description>Recent content in Introduction on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>[DATASKILLS]( https://www.dataskills.training/about/) is created with love in Africa under a [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/) license</copyright>
+    <lastBuildDate>Mon, 08 Jun 2020 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/introduction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing the DATASKILLS project</title>
+      <link>/post/2020-06-08-introducing-dataskills/</link>
+      <pubDate>Mon, 08 Jun 2020 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2020-06-08-introducing-dataskills/</guid>
+      <description>This post will be published shortly</description>
+    </item>
+    
+  </channel>
+</rss>

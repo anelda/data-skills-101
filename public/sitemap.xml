@@ -3,138 +3,113 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/thing-1/ownership/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <loc>/topic-1/what/</loc>
+    <lastmod>2020-06-08T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/thing-2/linux/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <loc>/topic-2/project/</loc>
+    <lastmod>2020-06-08T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/thing-3/requirments/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <loc>/topic-1/where/</loc>
+    <lastmod>2020-06-08T10:42:26+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/thing-3/install/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-2/mac/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-1/manage/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-3/configuration/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-2/routing/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-1/bill/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-3/customization/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-1/payment/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-2/ubuntu/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-3/elements/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-1/profile/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-2/windows/</loc>
-    <lastmod>2020-01-05T10:42:26+06:00</lastmod>
+    <loc>/topic-2/naming/</loc>
+    <lastmod>2020-06-08T10:42:26+06:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-05-29T11:02:05+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-3/</loc>
-    <lastmod>2020-05-29T11:02:05+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-2/</loc>
-    <lastmod>2020-05-28T11:02:05+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/thing-1/</loc>
-    <lastmod>2019-12-28T11:02:05+06:00</lastmod>
+    <lastmod>2020-06-08T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2020-06-08T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2020-05-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/post/2020-06-08-introducing-dataskills/</loc>
+    <lastmod>2020-06-08T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/introduction/</loc>
+    <lastmod>2020-06-08T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2020-06-08T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2020-06-08T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2020-06-08T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2020-06-08T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2020-06-08T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topic-1/</loc>
+    <lastmod>2020-06-08T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topic-2/</loc>
+    <lastmod>2020-06-08T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topic-3/</loc>
+    <lastmod>2020-06-08T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topic-4/</loc>
+    <lastmod>2020-06-08T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topic-5/</loc>
+    <lastmod>2020-06-08T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topic-6/</loc>
+    <lastmod>2020-06-08T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topic-7/</loc>
+    <lastmod>2020-06-08T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topic-8/</loc>
+    <lastmod>2020-06-08T11:02:05+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topic-9/</loc>
+    <lastmod>2020-06-08T11:02:05+06:00</lastmod>
   </url>
   
   <url>

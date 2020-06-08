@@ -39,7 +39,7 @@ The topics covered in _[DATASKILLS]({{< baseurl >}})_ are essential for any 'sex
 
 ### Who developed the content?
 
-_[DATASKILLS]({{< baseurl >}}_ is an initiative developed by Anelda van der Walt from [Talarify](http://www.talarify.co.za). The project is a culmination of many years' experience in working with a wide variety of data and teaching numerous data and computational literacy courses in Africa and beyond. 
+_[DATASKILLS]({{< baseurl >}})_ is an initiative developed by Anelda van der Walt from [Talarify](http://www.talarify.co.za). The project is a culmination of many years' experience in working with a wide variety of data and teaching numerous data and computational literacy courses in Africa and beyond. 
 
 Despite the fact that this project has been in the making for many years, it finally saw the light in June 2020 in response to a request to teach a data module as part of a _21st Century Skills for Industry_ course offered to Nanotechnology Honours students at Rhodes University, South Africa. The course coordinator was Heidi Duveskog from [Contextualize](http://contextualize.co.za/). The materials on this website was compiled by [Talarify](http://www.talarify.co.za) with input from Contextualize and team members from [afrimapr](http://afrimapr.org). 
 
@@ -47,9 +47,9 @@ Despite the fact that this project has been in the making for many years, it fin
 
 ### Re-use
 
-Where possible, this resource will refer to materials that are published under permissive open licenses to allow users to re-use and share the materials freely with peers and students. Resources developed under _[DATASKILLS]({{< baseurl >}}_ are published under [Creative Commons Attribution-NonCommercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/) (CC-BY-NC-4.0)
+Where possible, this resource will refer to materials that are published under permissive open licenses to allow users to re-use and share the materials freely with peers and students. Resources developed under _[DATASKILLS]({{< baseurl >}})_ are published under [Creative Commons Attribution-NonCommercial 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/) (CC-BY-NC-4.0)
 
-You can use the online version of _[DATASKILLS]({{< baseurl >}}_ in any class (free or paid), and can quote short excerpts under [fair use](https://en.wikipedia.org/wiki/Fair_use) provisions, but cannot republish large parts in commercial works without prior permission.
+You can use the online version of _[DATASKILLS]({{ ref "index.html"}})_ in any class (free or paid), and can quote short excerpts under [fair use](https://en.wikipedia.org/wiki/Fair_use) provisions, but cannot republish large parts in commercial works without prior permission.
 
 Contributions, corrections, and suggestions are all welcome, and all contributors will be acknowledged on the site. Please see our [Contributions section](contributions.html) for details and our [Code of Conduct](code.html).
 

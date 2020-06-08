@@ -34,21 +34,62 @@ hasChildren = true
   [[menu.main]]
   parent = "topics"
   name = "Starting with data"
-  url = "thing-1"
+  url = "topic-1"
   weight = 1
 
   [[menu.main]]
   parent = "topics"
   name = "Data management"
-  url = "thing-2"
+  url = "topic-2"
   weight = 2
+  
+  [[menu.main]]
+  parent = "topics"
+  name = "Discovering & reusing data"
+  url = "topic-3"
+  weight = 3
+  
+  [[menu.main]]
+  parent = "topics"
+  name = "Cleaning data"
+  url = "topic-4"
+  weight = 4
 
   [[menu.main]]
   parent = "topics"
-  name = "Data lifecycle"
-  url = "thing-3"
-  weight = 3
+  name = "Data analysis"
+  url = "topic-5"
+  weight = 5
+  
+  [[menu.main]]
+  parent = "topics"
+  name = "Data visualisation"
+  url = "topic-6"
+  weight = 6
+  
+  [[menu.main]]
+  parent = "topics"
+  name = "Reusable data & sharing"
+  url = "topic-7"
+  weight = 7
+  
+  [[menu.main]]
+  parent = "topics"
+  name = "Data tools"
+  url = "topic-8"
+  weight = 8
 
+
+  [[menu.main]]
+  parent = "topics"
+  name = "Publishers & funder policies"
+  url = "topic-9"
+  weight = 9
+  
+[[menu.main]]
+name = "Blog"
+url = "post"
+weight = 4
 
 ############################# Default Parameters ##########################
 [params]
@@ -62,8 +103,8 @@ logo_white = "images/dataskills-white-gray.png"
 primary_color = "#78463F"
 secondary_color = "#8D473F"
 body_color = "#F7F5F3"
-text_color = "#101619"
-text_color_dark = "#2E2923"
+text_color = "#2E2923"
+text_color_dark = "#26221D"
 white_color = "#ffffff"
 light_color = "#F7F5F3"
 
