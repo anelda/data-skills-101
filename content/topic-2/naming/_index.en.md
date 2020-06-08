@@ -2,51 +2,54 @@
 date: "2020-05-29T11:02:05+06:00"
 draft: false
 keywords:
-- "project organisation"
-- "data organisation"
-- "folder structure"
+- "file naming"
+- "naming conventions"
 lastmod: "2020-06-08T10:42:26+06:00"
-title: Project and data organisation
-weight: 2
+title: File and folder naming conventions
+weight: 1
 ---
 
 {{% notice objective %}}
-  Understand and implement proper project organisation on a computer. 
+  Understand and implement proper file and folder naming conventions. 
 {{% /notice %}}
 
 {{% notice resource %}}
-  The videos below have been created by University of Kansas Libraries. Watch them to learn more about proper project organisation.
+  The videos below have been created by University of Kansas Libraries. Watch them to learn more about proper naming conventions.
 {{% /notice %}}
 
 {{< tabs >}}
 
-  {{< tab "Video -1" >}}
+  {{< tab "Video 1" >}}
 
-  {{< youtube 8hlsVlPfvJ0 >}}
+  {{< youtube NHhS5c6brtM >}}
   
   {{< /tab >}}
   
-  {{< tab "Video - 2" >}}
+  {{< tab "Video 2" >}}
 
-  {{< youtube hXKGzwPRe_Y >}}
+  {{< youtube mKNfrkWLIS4 >}}
   
   {{< /tab >}}
   
-  {{< tab "Video - 3" >}}
+  {{< tab "Video 3" >}}
 
-  {{< youtube p7QhzRLa8rM >}}
+  {{< youtube jtIHyX7c6i8 >}}
   
   {{< /tab >}}
+  
+{{< /tabs >}}
 
 {{% notice reading %}}
-  Read this paper for more context on project organisation.
+  Read this blog post for more context on file naming conventions.
 {{% /notice %}}
 
-[A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424) explains the organisation of computational projects in further detail. _Don't be deterred by the words 'Computational Biology' in the title!_ The principles he describes are applicable accross all disciplines. Below is an excerpt from the publication.
+In [File naming conventions: why you want them and how to create them](https://www.huridocs.org/2016/07/file-naming-conventions-why-you-want-them-and-how-to-create-them/) Kristin Antin explains how they have helped to develop file naming conventions for numerous human rights organisations.
 
-> It is generally a good idea to store all of the files relevant to one project under a common root directory. The exception to this rule is source code or scripts that are used in multiple projects. Each such program might have a project directory of its own.
+> We are passionate about file naming and other information management tactics because the more organised we can be with managing our information, the more effective and efficient we can be in our human rights work.
+
+By implementing file naming conventions in your project - big or small - you can be more effective and efficient too!
 
 
 {{% notice try %}}
-  How do you normally organise the files for a specific project on your computer? Look at the location of the files of the project which you're currently working on. Can you organise this better? Go for it! 
+  What is your strategy for naming files? Do you use the default name? Store everything in the _Downloads_ folder? Look at your current project. How can you improve the file and folder naming strategy to help you be more effective and efficient? Go for it! 
 {{% /notice %}}

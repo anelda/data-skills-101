@@ -2,12 +2,12 @@
 date: "2020-06-08T11:02:05+06:00"
 draft: false
 keywords:
-- "file naming conventions"
-- "project organisation"
-- "computational project"
-- "data naming conventions"
+- "continuous"
+- "discrete"
+- "quantitative data"
+- "qualitative data"
 lastmod: "2020-06-08T10:42:26+06:00"
-title: File and folder naming conventions
+title: What is data?
 weight: 1
 ---
 

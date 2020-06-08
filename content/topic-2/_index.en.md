@@ -10,6 +10,16 @@ Data management should be considered even before a project kicks off. In researc
 
 In this section we will look at:
 
+* file naming conventions
 * project and data organisation on your computer
 * data management plans
 * options for storing and sharing data online
+
+
+  {{<notice reading >}}
+  Good enough practices in scientific computing provides good context of what we are working towards. Small steps at a time to implement lasting changes.
+  {{</notice>}}
+  
+  Read [Good enough practices for scientific computing](https://doi.org/10.1371/journal.pcbi.1005510).
+  
+  > Computers are now essential in all branches of science, but most researchers are never taught the equivalent of basic lab skills for research computing. As a result, data can get lost, analyses can take much longer than necessary, and researchers are limited in how effectively they can work with software and data.
